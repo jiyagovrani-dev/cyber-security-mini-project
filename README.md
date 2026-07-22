@@ -24,6 +24,20 @@ Performs a basic check on an entered URL to flag potentially suspicious or unsaf
 1. Make sure Python is installed on your system.
 2. Clone this repository:git clone https://github.com/jiyagovrani-dev/cyber-security-mini-project.git
 3. Navigate to the project folder and run:
+## Screenshots
+
+### Home Screen
+![Home Screen](home_screen.png)
+
+### Password Strength Checker
+![Password Strength Checker](password_strength_checker.png)
+
+### Password Generator
+![Password Generator](password_generator.png)
+
+### Phishing URL Detector
+![Safe URL](phishing_detector_safe.png)
+![Suspicious URL](phishing_detector_suspicious.png)
 ## Learning Outcomes
 - Gained hands-on understanding of core cybersecurity concepts and common cyber threats
 - Learned to build GUI applications using Python's Tkinter library
