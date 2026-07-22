@@ -23,7 +23,7 @@ Performs a basic check on an entered URL to flag potentially suspicious or unsaf
 ## How to Run
 1. Make sure Python is installed on your system.
 2. Clone this repository:git clone https://github.com/jiyagovrani-dev/cyber-security-mini-project.git
-3. Navigate to the project folder and run:
+3. Navigate to the project folder and run:python cybershield.py
 ## Screenshots
 
 ### Home Screen
