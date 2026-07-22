@@ -6,13 +6,13 @@ CyberShield is a Python-based Cyber Security Toolkit built with a simple Tkinter
 
 ## Features
 
-### 🔐 Password Strength Checker
+### Password Strength Checker
 Evaluates the strength of a user-entered password based on its length and complexity, helping users create stronger passwords to improve account security.
 
-### 🔑 Password Generator
+### Password Generator
 Generates strong, random passwords using a mix of uppercase letters, lowercase letters, numbers, and special characters.
 
-### 🛡️ Phishing URL Detector
+### Phishing URL Detector
 Performs a basic check on an entered URL to flag potentially suspicious or unsafe links.
 
 ## Tech Stack
